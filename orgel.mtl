@@ -1,8 +1,18 @@
-newmtl Union1Mtl
+newmtl Part1Mtl
 Material Color
 Ka 0.373615 0.368591 0.383775
 Kd 0.373615 0.368591 0.383775
 Ks 0.0234425 0.0231273 0.02408 
+
+d 1
+
+Ns 0
+
+newmtl Union49Mtl
+Material Color
+Ka 0.766744 0.722672 0.511398
+Kd 0.766744 0.722672 0.511398
+Ks 0.0481094 0.0453442 0.0320877 
 
 d 1
 
@@ -26,17 +36,7 @@ map_Bump Meshpart1_nmap.png
 
 map_Ns Meshpart1_spec.png
 
-newmtl Union48Mtl
-Material Color
-Ka 0.766744 0.722672 0.511398
-Kd 0.766744 0.722672 0.511398
-Ks 0.0481094 0.0453442 0.0320877 
-
-d 1
-
-Ns 0
-
-newmtl Part61Mtl
+newmtl Part63Mtl
 Material Color
 Ka 0.124741 0.113921 0.121986
 Kd 0.124741 0.113921 0.121986
